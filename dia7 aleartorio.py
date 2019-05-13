@@ -53,7 +53,7 @@ participantes=["lau","chua","david","silvani"]
 ganar=sorteo_compu(participantes)
 print(ganar)  #imprimimos el gandor
 
-
+#
 
 
 
